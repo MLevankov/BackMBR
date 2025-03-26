@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\BackMBR\BackMBR\bin\Debug\BackMBR.exe.config
+E:\Visual Studio Projects\BackMBR\BackMBR\bin\Debug\BackMBR.exe
+E:\Visual Studio Projects\BackMBR\BackMBR\bin\Debug\BackMBR.pdb
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.Form1.resources
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.Properties.Resources.resources
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.csproj.GenerateResource.cache
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.exe
+E:\Visual Studio Projects\BackMBR\BackMBR\obj\Debug\BackMBR.pdb
